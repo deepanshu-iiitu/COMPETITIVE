@@ -74,4 +74,4 @@ int main()
 			printf("NO");
 		}
 	}
-bsehdgbi'dfsng'}
+}
