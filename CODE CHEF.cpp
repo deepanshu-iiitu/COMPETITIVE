@@ -68,7 +68,7 @@ int main()
 		if (ans>0)
 		{
 			printf("YES");
-		}HIII
+		}
 		else
 		{
 			printf("NO");
