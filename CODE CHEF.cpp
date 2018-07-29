@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()pRIYESH
+int main()
 {
 	int t;
 	scanf("%d", &t);
