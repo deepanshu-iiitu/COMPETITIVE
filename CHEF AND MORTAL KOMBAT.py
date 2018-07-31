@@ -1,6 +1,6 @@
 t = int(input())
 for x in range(0, t):
-    n, k = [int(i) for i in input().split()]
+    n, k = [int(i) fo1r i in input().split()]
     mk = [int(i) for i in input().split()]
     ct = [int(i) for i in input().split()]
     mk.sort()
