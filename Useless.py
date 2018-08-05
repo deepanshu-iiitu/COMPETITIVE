@@ -1,3 +1,2 @@
-a = input()
-b = a[0]+a[2]+a[1]
-print(b)
+classm = {'22': 'me', 'b': 'priyesh', 'c': 'krishna'}
+print(classm)
