@@ -1,2 +1,2 @@
-classm = {'22': 'me', 'b': 'priyesh', 'c': 'krishna'}
-print(classm)
+for i in range(10):
+    print(i)
